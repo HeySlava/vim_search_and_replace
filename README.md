@@ -65,7 +65,7 @@ https://github.com/HeySlava/vim_search_and_replace
 
 `:help CTRL-R_CTRL-W`
 
-[Example with long func name](./example_with_very_long_name)
+[Example with long func name](https://github.com/HeySlava/vim_search_and_replace/blob/main/example_with_very_long_name.py)
 
 
 ### Pattern indise a pattern
@@ -75,7 +75,7 @@ https://github.com/HeySlava/vim_search_and_replace
 :h /\ze
 ```
 
-[Example with sqlalchemy](./example_with_sa)
+[Example with sqlalchemy](https://github.com/HeySlava/vim_search_and_replace/blob/main/example_with_sa.py)
 
 
 
